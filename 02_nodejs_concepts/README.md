@@ -8,7 +8,7 @@
 	<h1>Node.js Concepts</h1>
 </div>
 
-## Summary
+### Summary
 
 - [About the challenge](#about-the-challenge)
 
@@ -19,10 +19,12 @@
 - [Images](#Images)
 
 - [Back to all challenges](../)
+<hr>
 
 ### About the challenge
 
 - An application to storage repositories of a portfolio, that will allow you to list, update, and delete repositories, and besides that, the repositories can also receive likes.
+<hr>
 
 ### Routes
 
@@ -35,6 +37,7 @@
 - **`DELETE /repositories/:id`**: The route must delete a repository with the `id` present in the route parameters;
 
 - **`POST /repositories/:id/like`**: The route must increase the number of likes from the specific repository chosen through the `id` param present in the route parameters, at each call of this route, the number of likes must be increased by 1;
+<hr>
 
 ### Tests
 
@@ -57,6 +60,7 @@ To test it, clone this repo, execute the command `yarn` in your terminal in orde
 - **`should be able to give a like to the repository`**: In order for this test to pass, your application must allow a repository with the given id to receive likes. The value of likes must be increased by 1 for each request, and as the result, return a JSON containing the repository with the number of likes updated.
 
 - **`should not be able to like a repository that does not exist`**: In order for this test to pass, you must validate in your like route whether the repository id sent by the URL exists or not. If not, return an error with status `400`.
+<hr>
 
 ### Images
 
@@ -64,6 +68,7 @@ To test it, clone this repo, execute the command `yarn` in your terminal in orde
 <div style="margin-top: 16px;">	
 	<img src="./.github/tests.png" alt="tests" style="max-width:80%"/>
 </div>
+<hr>
 
 - [Back to top](#nodejs-concepts)
 
