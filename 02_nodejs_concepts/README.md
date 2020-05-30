@@ -19,12 +19,10 @@
 [Back to all challenges](../)
 
 ### About the challenge
-[Back to Summary](#Summary)
 
 - An application to storage repositories of a portfolio, that will allow you to list, update, and delete repositories, and besides that, the repositories can also receive likes.
 
 ### Routes
-[Back to Summary](#Summary)
 
 - **`POST /repositories`**: The route must receive `title`, `URL`, and `techs` inside of the request body. The URL must be the link to the Github of that repository. When registering a new project, it must be stored inside an object in the following format: `{id:" uuid ", title: 'Desafio Node.js', URL: 'http: //github.com / ...' , techs: ["Node.js", "..."], likes: 0} `; Make sure the ID is a UUID, and always start likes as 0.
 
@@ -37,7 +35,6 @@
 - **`POST /repositories/:id/like`**: The route must increase the number of likes from the specific repository chosen through the `id` param present in the route parameters, at each call of this route, the number of likes must be increased by 1;
 
 ### Tests
-[Back to Summary](#Summary)
 
 To test it, clone this repo, execute the command `yarn` in your terminal in order to install all the dependencies. Then execute `yarn test`.
 
@@ -60,12 +57,13 @@ To test it, clone this repo, execute the command `yarn` in your terminal in orde
 - **`should not be able to like a repository that does not exist`**: In order for this test to pass, you must validate in your like route whether the repository id sent by the URL exists or not. If not, return an error with status `400`.
 
 ### Images
-[Back to Summary](#Summary)
 
 - Tests:
 <div align="center">	
 	<img src="./.github/tests.png" alt="tests" style="max-width:80%"/>
 </div>
+
+- [Back to Summary](#Summary)
 
 by Felipe Borges<br>
 [LinkedIn](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
