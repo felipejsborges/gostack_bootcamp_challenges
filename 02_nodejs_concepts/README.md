@@ -4,7 +4,7 @@
 	</a>
 </div>
 
-<div astyle="text-align:center;">
+<div style="text-align:center;">
 	<h1>Node.js Concepts</h1>
 </div>
 
@@ -65,8 +65,8 @@ To test it, clone this repo, execute the command `yarn` in your terminal in orde
 	<img src="./.github/tests.png" alt="tests" style="max-width:80%"/>
 </div>
 
-<div astyle="text-align:right;">
-	<p>[Back to top](#nodejs-concepts)</p>
+<div style="text-align:right;">
+	[Back to top](#nodejs-concepts)
 </div>
 
 by Felipe Borges<br>
