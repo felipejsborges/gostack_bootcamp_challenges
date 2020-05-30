@@ -32,7 +32,7 @@
 
 - **`Add a repository in our API`**
 
-- **`Delete a repository Remover of our API`**
+- **`Delete a repository of our API`**
 <hr>
 
 ### Tests
