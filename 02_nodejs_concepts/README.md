@@ -16,7 +16,7 @@
 
 - [Images](#Images)
 
-[Back to all challenges](../)
+- [Back to all challenges](../)
 
 ### About the challenge
 
@@ -63,7 +63,9 @@ To test it, clone this repo, execute the command `yarn` in your terminal in orde
 	<img src="./.github/tests.png" alt="tests" style="max-width:80%"/>
 </div>
 
-- [Back to Summary](#Summary)
+<div astyle="text-align:right;">
+	<p>[Back to top](#nodejs-concepts)</p>
+</div>
 
 by Felipe Borges<br>
 [LinkedIn](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
