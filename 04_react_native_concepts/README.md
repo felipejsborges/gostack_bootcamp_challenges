@@ -35,7 +35,7 @@
 
 ### Tests
 
-To test it, clone this repo, execute the command `yarn` in your terminal in order to install all the dependencies. Then execute `yarn test`.
+To test it, clone [this repo](https://github.com/felipejsborges/gostack_bootcamp_challenges), on terminal execute the command `cd 04_react_native_concepts`, then `yarn` in order to install all the dependencies, and finally execute `yarn test`.
 
 - **`should add a like to the like counter of the repository`**: In order for this test to pass, your application must allow click on the Like button, a like be added to the listed repository and this update must be displayed on the screen.
 <hr>
