@@ -18,7 +18,7 @@
 
 - [Images](#Images)
 
-- [Back to all challenges](../)
+- [Back to all challenges](https://github.com/felipejsborges/gostack_bootcamp_challenges)
 <hr>
 
 ### About the challenge
