@@ -21,7 +21,7 @@
 
 ### About the challenge
 
-- An application to store in a database income and outcome financial transactions, add new ones, and list all of them. Allow to create transactions from a .csv file.
+- An application to store in a database income and outcome financial transactions, add new ones, and list all of them. Create transactions from a .csv file.
 <hr>
 
 ### Routes
