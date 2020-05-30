@@ -33,7 +33,7 @@
 
 ### Tests
 
-- **`should add a like to the like counter of the repository`**: In order for this test to pass, your application must allow click on the Like button, a like be added to the listed repository and this update must be displayed on the screen.
+- **`should add a like to the like counter of the repository`**
 
 <div align="center" style="margin-top: 16px;">	
 	<img src="./.github/tests.png" alt="tests" style="max-width:80%"/>
