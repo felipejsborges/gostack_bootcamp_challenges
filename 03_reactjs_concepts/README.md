@@ -35,9 +35,9 @@
 
 ### Tests
 
-- **`should be able to add new repository`**: In order for this test to pass, your application must allow a repository to be added in our back-end and listed in our fron-end inside a `li` tag.
+- **`should be able to add new repository`**
 
-- **`should be able to remove repository`**: In order for this test to pass, your application must allow click on delete button inside `li` tag of the added repository, and delete it.
+- **`should be able to remove repository`**
 
 <div align="center" style="margin-top: 16px;">	
 	<img src="./.github/tests.png" alt="tests" style="max-width:80%"/>
