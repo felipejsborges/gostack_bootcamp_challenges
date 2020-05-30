@@ -35,13 +35,13 @@
 
 ### Tests
 
-- **`should be able to list the total balance inside the cards`**: In order for this test to pass, your application must allow to show card with income, outcome and total balance.
+- **`should be able to list the total balance inside the cards`**
 
-- **`should be able to list the transactions`**: In order for this test to pass, your application must allow to list all the transactions inside a table.
+- **`should be able to list the transactions`**
 
-- **`should be able to navigate to the import page`**: In order for this test to pass, your application must allow to change pages by clicking on Header and Import button.
+- **`should be able to navigate to the import page`**
 
-- **`should be able to upload a file`**:In order for this test to pass, your application must allow to send a .csv file by drag-n-drop on `import` on import page.
+- **`should be able to upload a file`**
 
 <div align="center" style="margin-top: 16px;">	
 	<img src="./.github/tests.png" alt="tests" style="max-width:80%"/>
