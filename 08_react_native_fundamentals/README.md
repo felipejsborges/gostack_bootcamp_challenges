@@ -21,7 +21,7 @@
 
 ### About the challenge
 
-- The mobile part of [6th](https://github.com/felipejsborges/gostack_bootcamp_challenges/tree/master/06_db_and_files_upload) and [7th](https://github.com/felipejsborges/gostack_bootcamp_challenges/tree/master/07_reactjs_fundamentals) challenges using React Native and async storage.
+- A mobile e-commerce application, GoMarketplace, using React Native with async storage and context API.
 <hr>
 
 ### Features
