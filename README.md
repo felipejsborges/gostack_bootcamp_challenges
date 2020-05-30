@@ -26,10 +26,10 @@ Online, practical, and intensive training of [Rocketseat](https://rocketseat.com
 
 [09 - Database relationships in Node.js](/tree/master/09_database_relationships)
 
-Ps.: The first (01) challenge was create a personal schedule for the bootcamp. There's only technical content here.
+P.s.: The first (01) challenge was create a personal schedule for the bootcamp. There's only technical content here.
 
 by Felipe Borges<br>
-[Linkedin](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
+[LinkedIn](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
 
 
 
