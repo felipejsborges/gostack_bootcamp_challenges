@@ -8,7 +8,7 @@
 
 ## Summary
 
-[About the challenge](#About the challenge)
+[About the challenge](#About)
 
 [Routes](#Routes)
 
@@ -37,6 +37,7 @@ An application to storage repositories of a portfolio, that will allow you to li
 - **`POST /repositories/:id/like`**: The route must increase the number of likes from the specific repository chosen through the `id` param present in the route parameters, at each call of this route, the number of likes must be increased by 1;
 
 ### Tests
+[Back to Summary](#Summary)
 
 To test it, clone this repo, execute the command `yarn` in your terminal in order to install all the dependencies. Then execute `yarn test`.
 
