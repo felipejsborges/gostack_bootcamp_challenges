@@ -15,19 +15,19 @@ Online, practical, and intensive training of [Rocketseat](https://rocketseat.com
 ### Sumary
 - [02 - Node.js Concepts](/02_nodejs_concepts)
 
-- [03 - ReactJS Concepts](/tree/master/03_reactjs_concepts)
+- [03 - ReactJS Concepts](/03_reactjs_concepts)
 
-- [04 - React Native Concepts](/tree/master/04_react_native_concepts)
+- [04 - React Native Concepts](/04_react_native_concepts)
 
-- [05 - Node.js Fundamentals](/tree/master/05_nodejs_fundamentals)
+- [05 - Node.js Fundamentals](/05_nodejs_fundamentals)
 
-- [06 - Database and Files Upload with NodeJS](/tree/master/06_db_and_files_upload)
+- [06 - Database and Files Upload with NodeJS](/06_db_and_files_upload)
 
-- [07 - ReactJS Fundamentals](/tree/master/07_reactjs_fundamentals)
+- [07 - ReactJS Fundamentals](/07_reactjs_fundamentals)
 
-- [08 - React Native Fundamentals](/tree/master/08_react_native_fundamentals)
+- [08 - React Native Fundamentals](/08_react_native_fundamentals)
 
-- [09 - Database relationships in Node.js](/tree/master/09_database_relationships)
+- [09 - Database relationships in Node.js](/09_database_relationships)
 
 P.s.: The first (01) challenge was create a personal schedule for the bootcamp. There's only technical content here.
 <hr>
