@@ -8,7 +8,7 @@
 
 ## Summary
 
-[About the challenge](#About)
+[About the challenge](##about-the-challenge)
 
 [Routes](#Routes)
 
