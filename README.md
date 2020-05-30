@@ -10,7 +10,7 @@
 Online, practical, and intensive training of [Rocketseat](https://rocketseat.com.br/). We use NodeJS, ReactJS, and React Native and them whole ecosystem, from zero to deployment. Including automated testing, seamless integration, store publishing, and all the important libraries, tools, and frameworks for those who want to be ready for the projects of the real world. The modules are released weekly and also the challenges. In addition to these challenges, we also developed [GoBarber](https://github.com/felipejsborges/gobarber), a complete application to ensure that we have mastered the stack and receive our certificate.
 
 ## Sumary
-[02 - Node.js Concepts](/tree/master/02_nodejs_concepts)
+[02 - Node.js Concepts](/02_nodejs_concepts)
 
 [03 - ReactJS Concepts](/tree/master/03_reactjs_concepts)
 
