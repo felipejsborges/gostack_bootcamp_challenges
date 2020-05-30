@@ -26,7 +26,7 @@
 
 ### Routes
 
-- **`POST /transactions`**: The route must receives title, value and type (income or outcome) on request body. The transaction must be stored inside our database.
+- **`POST /transactions`**: The route must receive title, value and type (income or outcome) on request body. The transaction must be stored inside our database.
 
 - **`GET /transactions`**: The route must return a list with all stored transactions and the income, outcome and total balance.
 
@@ -37,19 +37,19 @@
 ### Tests
 To run tests in this challenge, you must create a database called "gostack_desafio06_tests".
 
-- **`should be able to create a new transaction`**: In order for this test to pass, your application must allow a transaction to be created, and return a JSON with it.
+- **`should be able to create a new transaction`**
 
-- **`should be able to list the transactions`**: In order for this test to pass, your application must return an array with all the transactions that have been created, the income, outcome and total balance.
+- **`should be able to list the transactions`**
 
-- **`should not be able to create an outcome transaction without a valid balance`**: In order for this test to pass, your application must not allow a outcome transaction with value bigger than user balance, returning a error with status 400.
+- **`should not be able to create an outcome transaction without a valid balance`**
 
-- **`should create tags when inserting new transactions`**: In order for this test to pass, your application must allow create a new category if we try to create a transaction with a non-existent category.
+- **`should create tags when inserting new transactions`**
 
-- **`should not create tags when they already exists`**: In order for this test to pass, your application must not allow to create duplicated categories.
+- **`should not create tags when they already exists`**
 
-- **`should be able to delete a transaction`**: In order for this test to pass, your application must allow to delete a transaction and returns an empty response with status 204.
+- **`should be able to delete a transaction`**
 
-- **`should be able to import transactions`**: In order for this test to pass, your application must allow to create transactions from a .csv file and returns a json with all imported transaction.
+- **`should be able to import transactions`**
 
 <div align="center" style="margin-top: 16px;">	
 	<img src="./.github/tests.png" alt="tests" style="max-width:80%"/>
