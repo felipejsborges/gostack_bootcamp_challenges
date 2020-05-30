@@ -26,7 +26,7 @@
 
 ### Routes
 
-- **`POST /transactions`**: The route must receives title, value and type (income or outcome) on request body.
+- **`POST /transactions`**: The route must receive title, value and type (income or outcome) on request body.
 
 - **`GET /transactions`**: The route must return a list with all stored transactions and the income, outcome and total balance.
 <hr>
