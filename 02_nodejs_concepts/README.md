@@ -39,23 +39,23 @@
 
 ### Tests
 
-- **`should be able to create a new repository`**: In order for this test to pass, your application must allow a repository to be created, and return a JSON with the created project.
+- **`should be able to create a new repository`**
 
-- **`should be able to list the repositories`**: In order for this test to pass, your application must return an array with all the repositories that have been created so far.
+- **`should be able to list the repositories`**
 
-- **`should be able to update repository`**: In order for this test to pass, your application must allow only the `url`,` title` and `techs` fields to be changed.
+- **`should be able to update repository`**
 
-- **`should not be able to update a repository that does not exist`**: In order for this test to pass, you must validate in your update route whether the repository id sent by the URL exists or not. If not, return an error with status `400`.
+- **`should not be able to update a repository that does not exist`**
 
-- **`should not be able to update repository likes manually`**: In order for this test to pass, you must not allow your update route to directly change the likes of that repository, maintaining the same number of likes that the repository already had before the update. That's because the only place that should update this information is the route responsible for increasing the number of likes.
+- **`should not be able to update repository likes manually`**
 
-- **`should be able to delete the repository`**: In order for this test to pass, you must allow your delete route to delete a project, and when deleted, it must return an empty response, with status `204`.
+- **`should be able to delete the repository`**
 
-- **`should not be able to delete a repository that does not exist`**: In order for this test to pass, you must validate in your delete route whether the repository id sent by the URL exists or not. If not, return an error with status `400`.
+- **`should not be able to delete a repository that does not exist`**
 
-- **`should be able to give a like to the repository`**: In order for this test to pass, your application must allow a repository with the given id to receive likes. The value of likes must be increased by 1 for each request, and as the result, return a JSON containing the repository with the number of likes updated.
+- **`should be able to give a like to the repository`**
 
-- **`should not be able to like a repository that does not exist`**: In order for this test to pass, you must validate in your like route whether the repository id sent by the URL exists or not. If not, return an error with status `400`.
+- **`should not be able to like a repository that does not exist`**
 
 <div align="center" style="margin-top: 16px;">	
 	<img src="./.github/tests.png" alt="tests" style="max-width:80%"/>
