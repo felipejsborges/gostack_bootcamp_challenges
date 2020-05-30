@@ -8,7 +8,7 @@
 
 ## Summary
 
-- [About the challenge](##about-the-challenge)
+- [About the challenge](#about-the-challenge)
 
 - [Routes](#Routes)
 
@@ -21,7 +21,7 @@
 ### About the challenge
 [Back to Summary](#Summary)
 
-An application to storage repositories of a portfolio, that will allow you to list, update, and delete repositories, and besides that, the repositories can also receive likes.
+- An application to storage repositories of a portfolio, that will allow you to list, update, and delete repositories, and besides that, the repositories can also receive likes.
 
 ### Routes
 [Back to Summary](#Summary)
@@ -62,9 +62,10 @@ To test it, clone this repo, execute the command `yarn` in your terminal in orde
 ### Images
 [Back to Summary](#Summary)
 
-<img src="./.github/tests.png" alt="tests" style="max-width:80%"/>
-
-[Back to all challenges](../)
+- Tests:
+<div align="center">	
+	<img src="./.github/tests.png" alt="tests" style="max-width:80%"/>
+</div>
 
 by Felipe Borges<br>
 [LinkedIn](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
