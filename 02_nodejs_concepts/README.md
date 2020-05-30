@@ -4,7 +4,9 @@
 	</a>
 </div>
 
-# Node.js Concepts
+<div astyle="text-align:center;">
+	<h1>Node.js Concepts</h1>
+</div>
 
 ## Summary
 
