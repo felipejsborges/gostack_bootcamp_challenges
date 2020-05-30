@@ -16,8 +16,6 @@
 
 - [Tests](#Tests)
 
-- [Images](#Images)
-
 - [Back to all challenges](https://github.com/felipejsborges/gostack_bootcamp_challenges)
 <hr>
 
@@ -37,17 +35,11 @@
 
 ### Tests
 
-To test it, clone this repo, execute the command `yarn` in your terminal in order to install all the dependencies. Then execute `yarn test`.
-
 - **`should be able to add new repository`**: In order for this test to pass, your application must allow a repository to be added in our back-end and listed in our fron-end inside a `li` tag.
 
 - **`should be able to remove repository`**: In order for this test to pass, your application must allow click on delete button inside `li` tag of the added repository, and delete it.
-<hr>
 
-### Images
-
-- Tests:
-<div style="margin-top: 16px;">	
+<div align="center" style="margin-top: 16px;">	
 	<img src="./.github/tests.png" alt="tests" style="max-width:80%"/>
 </div>
 <hr>
