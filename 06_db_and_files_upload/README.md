@@ -29,7 +29,7 @@
 - **`POST /transactions`**: The route must receives title, value and type (income or outcome) on request body. The transaction must be stored inside our database.
 
 - **`GET /transactions`**: The route must return a list with all stored transactions and the income, outcome and total balance.
-<hr>
+
 - **`DELETE /transactions/:id`**: The route must delete a transaction with the id in the params.
 
 - **`POST /transactions/import`**: The route must allow to import a .csv file with the same information that need to create a new transaction. Each line of this file must be a new register to de database.
