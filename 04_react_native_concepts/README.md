@@ -23,7 +23,7 @@
 
 ### About the challenge
 
-- The mobile part of [2nd](https://github.com/felipejsborges/gostack_bootcamp_challenges/tree/master/02_nodejs_concepts) and [3rd](https://github.com/felipejsborges/gostack_bootcamp_challenges/tree/master/03_reactjs_concepts) challenges using ReactJS.
+- The mobile part of [2nd](https://github.com/felipejsborges/gostack_bootcamp_challenges/tree/master/02_nodejs_concepts) and [3rd](https://github.com/felipejsborges/gostack_bootcamp_challenges/tree/master/03_reactjs_concepts) challenges using React Native.
 <hr>
 
 ### Features
