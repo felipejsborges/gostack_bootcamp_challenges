@@ -1,5 +1,5 @@
 <div align="center">
-	<a href="https://rocketseat.com.br/gostack">
+	<a href="https://rocketseat.com.br/gostack" target="_blank">
 		<img src="/.github/gostackimg.png" alt="Logo" style="max-width:80%"/>
 	</a>
 </div>
@@ -7,7 +7,7 @@
 # GoStack Bootcamp Challenges
 
 ## Intro
-### What is GoStack Bootcamp?
+### What is <a href="https://rocketseat.com.br/gostack" target="_blank">GoStack Bootcamp</a>?
 Online, practical, and intensive training. We use NodeJS, ReactJS, and React Native and them whole ecosystem, from zero to deployment. Including automated testing, seamless integration, store publishing, and all the important libraries, tools, and frameworks for those who want to be ready for the projects of the real world. The modules are released weekly and also the challenges. In addition to these challenges, we also developed [GoBarber](https://github.com/felipejsborges/gobarber), a complete application to ensure that we have mastered the stack and receive our certificate
 
 ## Sumary
@@ -29,7 +29,7 @@ Online, practical, and intensive training. We use NodeJS, ReactJS, and React Nat
 
 - The first challenge was create a personal schedule for the bootcamp. There's only technical content here.
 
-by Felipe Borges
+by Felipe Borges<br>
 [Linkedin](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
 
 
