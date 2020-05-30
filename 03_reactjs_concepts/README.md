@@ -28,11 +28,11 @@
 
 ### Features
 
-- **`List repositories of our API`**
+- **List repositories of our API**
 
-- **`Add a repository in our API`**
+- **Add a repository in our API**
 
-- **`Delete a repository of our API`**
+- **Delete a repository of our API**
 <hr>
 
 ### Tests
