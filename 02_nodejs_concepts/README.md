@@ -8,13 +8,13 @@
 
 ## Summary
 
-[About the challenge](##about-the-challenge)
+- [About the challenge](##about-the-challenge)
 
-[Routes](#Routes)
+- [Routes](#Routes)
 
-[Tests](#Tests)
+- [Tests](#Tests)
 
-[Images](#Images)
+- [Images](#Images)
 
 [Back to all challenges](../)
 
@@ -62,7 +62,7 @@ To test it, clone this repo, execute the command `yarn` in your terminal in orde
 ### Images
 [Back to Summary](#Summary)
 
-<img src="/.github/tests.png" alt="Tests" style="max-width:80%"/>
+<img src="./.github/tests.png" alt="tests" style="max-width:80%"/>
 
 [Back to all challenges](../)
 
