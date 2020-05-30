@@ -41,8 +41,6 @@
 
 ### Tests
 
-To test it, clone this repo, execute the command `yarn` in your terminal in order to install all the dependencies. Then execute `yarn test`.
-
 - **`should be able to create a new repository`**: In order for this test to pass, your application must allow a repository to be created, and return a JSON with the created project.
 
 - **`should be able to list the repositories`**: In order for this test to pass, your application must return an array with all the repositories that have been created so far.
@@ -62,9 +60,7 @@ To test it, clone this repo, execute the command `yarn` in your terminal in orde
 - **`should not be able to like a repository that does not exist`**: In order for this test to pass, you must validate in your like route whether the repository id sent by the URL exists or not. If not, return an error with status `400`.
 <hr>
 
-### Images
-
-- Tests:
+- Result
 <div style="margin-top: 16px;">	
 	<img src="./.github/tests.png" alt="tests" style="max-width:80%"/>
 </div>
