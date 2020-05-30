@@ -59,8 +59,7 @@
 
 - **`should not be able to like a repository that does not exist`**: In order for this test to pass, you must validate in your like route whether the repository id sent by the URL exists or not. If not, return an error with status `400`.
 
-- Result
-<div style="margin-top: 16px;">	
+<div align="center" style="margin-top: 16px;">	
 	<img src="./.github/tests.png" alt="tests" style="max-width:80%"/>
 </div>
 <hr>
