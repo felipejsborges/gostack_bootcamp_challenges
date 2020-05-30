@@ -70,7 +70,5 @@ To test it, clone this repo, execute the command `yarn` in your terminal in orde
 </div>
 <hr>
 
-- [Back to top](#nodejs-concepts)
-
 by Felipe Borges<br>
 [LinkedIn](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
