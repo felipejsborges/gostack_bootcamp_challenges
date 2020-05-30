@@ -35,6 +35,7 @@
 - **`POST /transactions/import`**: The route must allow to import a .csv file with the same information that need to create a new transaction. Each line of this file must be a new register to de database.
 
 ### Tests
+To run tests in this challenge, you must create a database called "gostack_desafio06_tests".
 
 - **`should be able to create a new transaction`**: In order for this test to pass, your application must allow a transaction to be created, and return a JSON with it.
 
