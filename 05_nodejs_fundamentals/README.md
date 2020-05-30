@@ -33,11 +33,11 @@
 
 ### Tests
 
-- **`should be able to create a new transaction`**: In order for this test to pass, your application must allow a transaction to be created, and return a JSON with it.
+- **`should be able to create a new transaction`**
 
-- **`should be able to list the transactions`**: In order for this test to pass, your application must return an array with all the transactions that have been created, the income, outcome and total balance.
+- **`should be able to list the transactions`**
 
-- **`should not be able to create an outcome transaction without a valid balance`**: In order for this test to pass, your application must not allow a outcome transaction with value bigger than user balance, returning a error with status 400.
+- **`should not be able to create an outcome transaction without a valid balance`**
 
 <div align="center" style="margin-top: 16px;">	
 	<img src="./.github/tests.png" alt="tests" style="max-width:80%"/>
