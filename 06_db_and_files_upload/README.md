@@ -21,7 +21,7 @@
 
 ### About the challenge
 
-- An application to store in a database income and outcome financial transactions, add new ones, and list all of them. Create transactions from a .csv file.
+- An application to store in a database income and outcome financial transactions, add new ones, and list all of them. And create transactions from a .csv file.
 <hr>
 
 ### Routes
@@ -32,7 +32,7 @@
 <hr>
 - **`DELETE /transactions/:id`**: The route must delete a transaction with the id in the params.
 
-**`POST /transactions/import`**: The route must allow to import a .csv file with the same information that need to create a new transaction. Each line of this file must be a new register to de database.
+- **`POST /transactions/import`**: The route must allow to import a .csv file with the same information that need to create a new transaction. Each line of this file must be a new register to de database.
 
 ### Tests
 
