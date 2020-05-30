@@ -23,7 +23,7 @@
 
 ### About the challenge
 
-- The front-end part of [2nd challenge](https://github.com/felipejsborges/gostack_bootcamp_challenges/02_nodejs_concepts) using ReactJS.
+- The front-end part of [2nd challenge](https://github.com/felipejsborges/gostack_bootcamp_challenges/tree/master/02_nodejs_concepts) using ReactJS.
 <hr>
 
 ### Features
