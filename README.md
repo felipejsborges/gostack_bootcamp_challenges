@@ -5,14 +5,14 @@
 </div>
 
 <div align="center">
-	<h1>GoStack Bootcamp Challenges</h1>
+	<h1>GoStack Bootcamp Challenges 💾</h1>
 </div>
 
-### What is <a href="https://rocketseat.com.br/gostack" target="_blank">GoStack Bootcamp</a>?
+### What is <a href="https://rocketseat.com.br/gostack" target="_blank">GoStack Bootcamp</a>? 🚀
 Online, practical, and intensive training of [Rocketseat](https://rocketseat.com.br/). We use NodeJS, ReactJS, and React Native and them whole ecosystem, from zero to deployment. Including automated testing, seamless integration, store publishing, and all the important libraries, tools, and frameworks for those who want to be ready for the projects of the real world. The modules are released weekly and also the challenges. In addition to these challenges, we also developed [GoBarber](https://github.com/felipejsborges/gobarber), a complete application to ensure that we have mastered the stack and receive our certificate.
 <hr>
 
-### Where do I find the challenges?
+### Where do I find the challenges? 🔍
 - [02 - Node.js Concepts](/02_nodejs_concepts)
 
 - [03 - ReactJS Concepts](/03_reactjs_concepts)
@@ -32,7 +32,7 @@ Online, practical, and intensive training of [Rocketseat](https://rocketseat.com
 P.s.: The first (01) challenge was create a personal schedule for the bootcamp. There's only technical content here.
 <hr>
 
-### How can I execute the tests?
+### How can I execute the tests? 🖥
 Clone [this repo](https://github.com/felipejsborges/gostack_bootcamp_challenges), on terminal execute the command `cd <challenge_folder>`, then `yarn` in order to install all the dependencies, and finally execute `yarn test`.
 <hr>
 
