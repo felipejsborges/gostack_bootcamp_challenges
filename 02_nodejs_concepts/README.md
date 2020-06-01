@@ -16,7 +16,7 @@
 
 - [Tests](#Tests)
 
-- [Back to all challenges](https://github.com/felipejsborges/gostack_bootcamp_challenges)
+- [Back to all challenges](https://github.com/felipejsborges/web_development_bootcamp_projects#the-complete-web-development-bootcamp-projects-)
 <hr>
 
 ### About the challenge
