@@ -16,7 +16,7 @@
 
 - [Tests](#Tests)
 
-- [Back to all challenges](https://github.com/felipejsborges/gostack_bootcamp_challenges)
+- [Back to all challenges](https://github.com/felipejsborges/gostack_bootcamp_challenges#gostack-bootcamp-challenges-)
 <hr>
 
 ### About the challenge
