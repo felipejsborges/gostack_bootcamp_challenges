@@ -29,6 +29,8 @@ Online, practical, and intensive training of [Rocketseat](https://rocketseat.com
 
 - [09 - Database relationships in Node.js](/09_database_relationships)
 
+- [10 - CRUD on ReactJS](/10_reactjs_crud)
+
 P.s.: The first (01) challenge was create a personal schedule for the bootcamp. There's only technical content here.
 <hr>
 
