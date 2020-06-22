@@ -35,6 +35,10 @@
 - Delete plates
 
 - Change plate availability
+
+<div align="center">
+	<img src="/.github/GoRestaurant.gif" alt="GoRestaurant" style="max-width:100%"/>
+</div>
 <hr>
 
 ### Tests
