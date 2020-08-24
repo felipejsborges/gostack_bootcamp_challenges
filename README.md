@@ -9,7 +9,7 @@
 </div>
 
 ### What is <a href="https://rocketseat.com.br/gostack" target="_blank">GoStack Bootcamp</a>? 🚀
-Online, practical, and intensive training of [Rocketseat](https://rocketseat.com.br/). We use NodeJS, ReactJS, and React Native and them whole ecosystem, from zero to deployment. Including automated testing, seamless integration, store publishing, and all the important libraries, tools, and frameworks for those who want to be ready for the projects of the real world. The modules are released weekly and also the challenges. In addition to these challenges, we also developed [GoBarber](https://github.com/felipejsborges/gobarber), a complete application to ensure that we have mastered the stack and receive our certificate.
+Online, practical, and intensive training of [Rocketseat](https://rocketseat.com.br/). We use NodeJS, ReactJS, and React Native and them whole ecosystem, from zero to deployment. Including automated testing, seamless integration, store publishing, and all the important libraries, tools, and frameworks for those who want to be ready for the projects of the real world. The modules are released weekly and also the challenges. In addition to these challenges, we also developed [GoBarber](https://github.com/felipejsborges/gobarber), a complete application to ensure that we have mastered the stack and receive our [certificate](https://drive.google.com/file/d/1OYQFr4jtASumHoZ5rzqkmm2OJh2DQvRy/view).
 <hr>
 
 ### Where do I find the challenges? 🔍
